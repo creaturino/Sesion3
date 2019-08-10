@@ -1,0 +1,48 @@
+nuestra ramo master esta tres commits arriba
+
+
+git reset --hard
+
+git add .
+git commit
+
+git checkout -b test
+merge es juntar las ramas.
+
+lista de buenas practicas en git.
+
+rama primaria
+
+test
+
+production
+
+development
+
+
+checklist de buenas practicas, generar ramas por fix, feat, refac con
+notacion karma jira manejo de tareas.
+
+manejo de monorepos?
+
+git ignore
+
+reto 2 : crear cuatro ramas.
+
+2 se merchean y se eliminan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
